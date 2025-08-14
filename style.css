@@ -272,7 +272,7 @@ span a{
 }
 
 .img3{
-    background-image: url(images/stock-market.jpg);
+    background-image: url(images/Foodie\'s\ LovSpot\ Image.png);
     height: 150px;
     background-position: center;
     background-repeat: no-repeat;
@@ -1159,4 +1159,5 @@ form input[type="submit"]{
     .skills_head h2{
         font-size: 10vw;
     }
+
 }
